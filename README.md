@@ -10,6 +10,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Skills & Experience
+
+![人力車](https://img.shields.io/badge/人力車-E53935?style=for-the-badge)
+![観光案内](https://img.shields.io/badge/観光案内-FF9800?style=for-the-badge)
+![接客](https://img.shields.io/badge/接客-00897B?style=for-the-badge)
+
 ## Currently Learning
 
 - Pythonを使ったWebアプリケーション開発
