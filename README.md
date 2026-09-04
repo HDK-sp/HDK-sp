@@ -1,4 +1,4 @@
-##  こんにちは
+##  よろしくお願いします
 
 ## Skills
 
@@ -12,7 +12,7 @@
 
 ## Currently Learning
 
-- Pythonを使ったWebアプリケーション開発
+- Pythonロードマップ　DjangoでWebアプリケーション開発
 
 <!--
 **mstblack25-lab/mstblack25-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
