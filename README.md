@@ -1,7 +1,8 @@
-## Hi there 👋
+##  こんにちは
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
-**HDK-sp/HDK-sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mstblack25-lab/mstblack25-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
